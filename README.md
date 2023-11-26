@@ -17,4 +17,4 @@
 > student_id
 
 > course_id
-* Конверованы данные таблицы PurchaseList в данные для таблицы LinkedPurchaseList, в которой уже хранятся идентификаторы студентов и курсов: пары значений student_id и course_id.
+* Конвертированы данные таблицы PurchaseList в данные для таблицы LinkedPurchaseList, в которой уже хранятся идентификаторы студентов и курсов: пары значений student_id и course_id.
